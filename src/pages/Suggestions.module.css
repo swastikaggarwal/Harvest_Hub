@@ -1,0 +1,211 @@
+.harvestHub {
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inicio {
+  cursor: pointer;
+}
+.inicio,
+.recomendaciones {
+  position: relative;
+  font-weight: 300;
+}
+.navlinks {
+  align-self: stretch;
+  background-color: var(--default-white);
+  width: 253px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--body-12px-small-regular-size);
+}
+.button,
+.navl {
+  justify-content: flex-start;
+}
+.navl {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-base);
+}
+.button {
+  border-radius: var(--br-7xs);
+  background-color: var(--second-main);
+  border: 1px solid var(--main);
+  padding: var(--padding-3xs) var(--padding-8xs);
+}
+.button,
+.buttons,
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.buttons {
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--body-12px-small-regular-size);
+  color: var(--main);
+}
+.navbar {
+  background-color: var(--default-white);
+  border-bottom: 1px solid var(--gray);
+  box-sizing: border-box;
+  width: 1280px;
+  overflow: hidden;
+  justify-content: space-between;
+  padding: var(--padding-base) var(--padding-11xl);
+}
+.askWatsonxai {
+  font-weight: 600;
+}
+.askWatsonxaiRecommendationContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+}
+.title {
+  position: relative;
+  width: 337px;
+  height: 32px;
+}
+.message {
+  border-radius: var(--br-3xs);
+  background-color: var(--second-main);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-xl);
+}
+.question {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.theAppleFreshness {
+  font-family: var(--body-18px-medium-semibold);
+}
+.www101cookbookscom1 {
+  text-decoration: underline;
+}
+.www101cookbookscom {
+  color: inherit;
+}
+.linkWww101cookbookscom {
+  margin: 0;
+}
+.paraLaSiembraContainer {
+  align-self: stretch;
+  position: relative;
+  color: var(--font-inherit);
+  white-space: pre-wrap;
+}
+.response1 {
+  border-radius: var(--br-3xs);
+  background-color: var(--second-main);
+  width: 400px;
+  padding: var(--padding-3xs) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.messageGroup,
+.response,
+.response1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.response {
+  color: var(--main);
+}
+.messageGroup {
+  align-self: stretch;
+  gap: var(--gap-3xs);
+}
+.ingredients {
+  margin-bottom: 0;
+}
+.ingredients1ApplePeeled {
+  margin: 0;
+  padding-left: var(--padding-base);
+}
+.paraLaSiembraContainer1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  color: var(--black);
+}
+.messageBox {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--default-white);
+  overflow: hidden;
+  flex-direction: column;
+  font-size: var(--body-12px-small-regular-size);
+}
+.contentpage,
+.messageBox,
+.opciones {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.opciones {
+  border-radius: var(--br-8xs);
+  width: 1220px;
+  overflow-x: auto;
+  flex-direction: row;
+}
+.contentpage {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-11xl);
+  font-size: var(--body-18px-medium-semibold-size);
+}
+.santorarSasAll {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 136px);
+  line-height: 24px;
+}
+.footerMini2,
+.suggestions {
+  position: relative;
+  background-color: var(--default-black);
+  width: 1280px;
+  height: 72px;
+  font-size: var(--body-body-2-size);
+  color: var(--text-gray-300);
+  font-family: var(--label-large-label);
+}
+.suggestions {
+  background-color: var(--default-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--body-24px-medium-bold-size);
+  color: var(--black);
+  font-family: var(--body-18px-medium-semibold);
+}
