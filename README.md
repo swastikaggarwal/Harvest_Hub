@@ -35,6 +35,7 @@ with the Help of Machine learning and a Data Tracking System, our platform will 
 1. [Watsonx.ai](https://www.ibm.com/products/watsonx-ai): WHERE AND HOW THIS IS USED IN OUR SOLUTION
 
 ## Solution Architecture
+![Solution Architecture( Harvest Hub)](https://github.com/swastikaggarwal/Harvest_Hub/assets/103200961/320f3ddc-90c8-4e39-93c2-f56020c9336e)
 ## Presentation materials
 ### Solution demo video
 ### Project development roadmap
