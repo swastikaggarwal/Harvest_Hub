@@ -24,13 +24,18 @@
 ### The Issue we are Hoping to Solve
 ---
 ***Global Food Challenge:***
-About one-third of all the food produced worldwide is wasted or lost every year, while millions suffer from hunger every night. This happens because many folks lack knowledge about how to use, keep food fresh, and store it properly. The result is early spoilage of food. Fixing this lack of awareness is crucial for sustainable food practices. Examples include not knowing how to store food correctly or **misunderstanding expiration dates**, adding to the problem of having too much wasted food and too many hungry people. <br>
+About one-third of all the food produced worldwide is wasted or lost every year, while millions suffer from hunger every night. This happens because many folks lack knowledge about how to use, keep food fresh, and store it properly. The result is early spoilage of food. Fixing this lack of awareness is crucial for sustainable food practices. Examples include not knowing how to store food correctly or **misunderstanding expiration dates**, adding to the problem of having too much-wasted food and too many hungry people. <br>
 ### How our technology solution can help
  ---
- Introducing the platform **Hárvest Hüb** is a platform where you can Freshness of your Food and can Do the Quality Control.
-with the Help of Machine learning and a Data Tracking System, our platform will suggest your day-wise freshness level, Humidity, and Temperature level when it is going to be stale, and what Dishes you can make from a particular Food item.
+ Introducing the platform **Hárvest Hüb** is a platform where you can check and analyze the Freshness of your Food and can Do Quality Control.
+with the Help of Machine learning and a Data Tracking System, our platform will suggest your day-wise freshness level, Humidity, and Temperature level when it is going to be stale, and what Dishes you can make from a particular food item, etc.
 ## Our Idea 
-### Market Analysis: How Harvest Hub is Unquie than existing Solution!
+"Hárvest Hüb enhances awareness of sustainable food practices. Users can upload images of their fruits or vegetables to receive real-time percentage results for freshness, expiration dates, humidity, and temperature. The platform continues to provide daily updates until reaching 100% expiration, enabling users to make informed decisions about their food.
+
+Additionally, Hárvest Hüb features a recommendation system powered by Watsonx.ai. Users can inquire about food recipes or predict freshness levels for the next day based on room temperature conditions. This data-driven approach empowers users to determine the optimal time for consumption or repurposing, whether for cooking or blending into a smoothie."
+
+
+### Market Analysis: How Harvest Hub is Unquie than Existing Solution!
 ## Technology implementation
 ### IBM AI services used
 1. [Watsonx.ai](https://www.ibm.com/products/watsonx-ai): WHERE AND HOW THIS IS USED IN OUR SOLUTION
