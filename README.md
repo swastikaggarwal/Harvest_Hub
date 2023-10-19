@@ -30,6 +30,7 @@ About one-third of all the food produced worldwide is wasted or lost every year,
  Introducing the platform **Hárvest Hüb** is a platform where you can Freshness of your Food and can Do the Quality Control.
 with the Help of Machine learning and a Data Tracking System, our platform will suggest your day-wise freshness level, Humidity, and Temperature level when it is going to be stale, and what Dishes you can make from a particular Food item.
 ## Our Idea 
+
 ## Technology implementation
 ## IBM AI services used
 1. [Watsonx.ai](https://www.ibm.com/products/watsonx-ai): WHERE AND HOW THIS IS USED IN OUR SOLUTION
@@ -38,12 +39,17 @@ with the Help of Machine learning and a Data Tracking System, our platform will 
 ![Solution Architecture( Harvest Hub)](https://github.com/swastikaggarwal/Harvest_Hub/assets/103200961/320f3ddc-90c8-4e39-93c2-f56020c9336e)
 1. The user navigates to the site and uploads an image of his/her Food (Fruits or vegetables).
 2. Machine learning models will predict the Freshness of the food.
-3. The Data Analytics Dashboard will monitor the Humidity, Moisture, level and will predict the how long food gonna remain fresh 
+3. The Data Analytics Dashboard will monitor the Humidity, Moisture, and level and will predict how long food gonna remain fresh 
 4. Watsonx.ai recommend suggestion to the user according to the freshness level such as recipes, Day-to-day predictions of the freshness of foods, etc.
 ## Presentation materials
-
 ### Solution demo video
 ### Project development roadmap
+The project currently does the following things.
+1. ***Real Time Statistics***: Harvest Hub offers updated real-time statistics based on accurate data collected from users of their Food,  enriching decision-making and improving cooking efficiency by providing a percentage of food freshness.
+2. ***Recommendation system***: Harvest Hub offers an advanced system of recommendations adaptive to the needs of each user.Using **Watsonx.ai**, prompt services 
+helps users to get answers to their specific  questions.
+3. ***Real Time Monitoring***: Harvest Hub offers an advanced system of monitoring the needs of each user. Based on accurate data, this system provides specific guidance, from when to eat to how to manage Freshness, we aim to  **Reduce global food insecurity** and maximize the productivity of each crop. 
+
 ## Additional details
 ### How to run the project
 
