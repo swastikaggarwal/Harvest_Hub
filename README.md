@@ -30,7 +30,7 @@ About one-third of all the food produced worldwide is wasted or lost every year,
  Introducing the platform **Hárvest Hüb** is a platform where you can Freshness of your Food and can Do the Quality Control.
 with the Help of Machine learning and a Data Tracking System, our platform will suggest your day-wise freshness level, Humidity, and Temperature level when it is going to be stale, and what Dishes you can make from a particular Food item.
 ## Our Idea 
-
+### Market Analysis: How Harvest Hub is Unquie than existing Solution!
 ## Technology implementation
 ### IBM AI services used
 1. [Watsonx.ai](https://www.ibm.com/products/watsonx-ai): WHERE AND HOW THIS IS USED IN OUR SOLUTION
