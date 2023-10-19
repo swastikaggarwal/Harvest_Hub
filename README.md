@@ -32,7 +32,7 @@ with the Help of Machine learning and a Data Tracking System, our platform will 
 ## Our Idea 
 
 ## Technology implementation
-## IBM AI services used
+### IBM AI services used
 1. [Watsonx.ai](https://www.ibm.com/products/watsonx-ai): WHERE AND HOW THIS IS USED IN OUR SOLUTION
 
 ## Solution Architecture
