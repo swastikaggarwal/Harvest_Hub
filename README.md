@@ -49,15 +49,9 @@ The project currently does the following things.
 2. ***Recommendation system***: Harvest Hub offers an advanced system of recommendations adaptive to the needs of each user.Using **Watsonx.ai**, prompt services 
 helps users to get answers to their specific  questions.
 3. ***Real Time Monitoring***: Harvest Hub offers an advanced system of monitoring the needs of each user. Based on accurate data, this system provides specific guidance, from when to eat to how to manage Freshness, we aim to  **Reduce global food insecurity** and maximize the productivity of each crop. 
-
 ## Additional details
 ### How to run the project
-
-
-
-
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
-
   To preview and run the project on your device:
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
   2) In the terminal, run `npm install`
