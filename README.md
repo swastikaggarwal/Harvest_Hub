@@ -24,7 +24,7 @@
 ### The Issue we are Hoping to Solve
 ---
 ***Global Food Challenge:***
-About one-third of all the food produced worldwide is wasted or lost every year, while millions suffer from hunger every night. This happens because many folks lack knowledge about how to use, keep food fresh, and store it properly. The result is early spoilage of food. Fixing this lack of awareness is crucial for sustainable food practices. Examples include not knowing how to store food correctly or misunderstanding expiration dates, adding to the problem of having too much wasted food and too many hungry people. <br>
+About one-third of all the food produced worldwide is wasted or lost every year, while millions suffer from hunger every night. This happens because many folks lack knowledge about how to use, keep food fresh, and store it properly. The result is early spoilage of food. Fixing this lack of awareness is crucial for sustainable food practices. Examples include not knowing how to store food correctly or **misunderstanding expiration dates**, adding to the problem of having too much wasted food and too many hungry people. <br>
 ### How our technology solution can help
  ---
  Introducing the platform **Hárvest Hüb** is a platform where you can Freshness of your Food and can Do the Quality Control.
