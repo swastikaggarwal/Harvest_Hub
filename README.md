@@ -30,12 +30,17 @@ About one-third of all the food produced worldwide is wasted or lost every year,
  Introducing the platform **Hárvest Hüb** is a platform where you can check and analyze the Freshness of your Food and can Do Quality Control.
 with the Help of Machine learning and a Data Tracking System, our platform will suggest your day-wise freshness level, Humidity, and Temperature level when it is going to be stale, and what Dishes you can make from a particular food item, etc.
 ## Our Idea 
-"Hárvest Hüb enhances awareness of sustainable food practices. Users can upload images of their fruits or vegetables to receive real-time percentage results for freshness, expiration dates, humidity, and temperature. The platform continues to provide daily updates until reaching 100% expiration, enabling users to make informed decisions about their food.
+**Hárvest Hüb** enhances awareness of sustainable food practices. Users can upload images of their fruits or vegetables to receive real-time percentage results for ***Freshness, Expiration Dates, Humidity, and Temperature***. The platform continues to provide daily updates until reaching 100% expiration, enabling users to make informed decisions about their food.
 
-Additionally, Hárvest Hüb features a recommendation system powered by Watsonx.ai. Users can inquire about food recipes or predict freshness levels for the next day based on room temperature conditions. This data-driven approach empowers users to determine the optimal time for consumption or repurposing, whether for cooking or blending into a smoothie."
-
-
+Additionally, Hárvest Hüb features a ***Recommendation system*** powered by ***Watsonx.ai***. Users now can inquire about food recipes or predict freshness levels for the next day based on room temperature conditions. This data-driven approach empowers users to determine the optimal time for consumption or repurposing, whether for cooking or blending into a smoothie.
 ### Market Analysis: How Harvest Hub is Unquie than Existing Solution!
+  ***Harvest Hub vs Google vs Blogs/vlog on Internet***:
+  1. Unlike traditional blogs and vlogs that leave you estimating freshness,**Harvest Hub** goes beyond by offering live tracking updates and future predictions 
+     for your food. It's not just information; it's your personalized freshness assistant with recipe recommendations tailored to your ingredients.
+  2. While blogs and vlogs merely provide information, Harvest Hub elevates your food management experience. With live tracking and predictive insights, it's your 
+     go-to for understanding and utilizing food freshness. The added bonus? Customized recipe recommendations for every stage of your ingredients.
+  3. Move over blogs and vlogs; enter Harvest Hub. Why settle for static information when you can have live tracking and future predictions for your food? It's not 
+     just about guessing freshness; it's about having a dynamic assistant that recommends recipes based on your unique ingredients.   
 ## Technology implementation
 ### IBM AI services used
 1. [Watsonx.ai](https://www.ibm.com/products/watsonx-ai): WHERE AND HOW THIS IS USED IN OUR SOLUTION
