@@ -72,7 +72,10 @@ The project currently does the following things.
 1. ***Real Time Statistics***: Harvest Hub offers updated real-time statistics based on accurate data collected from users of their Food,  enriching decision-making and improving cooking efficiency by providing a percentage of food freshness.
 2. ***Recommendation system***: Harvest Hub offers an advanced system of recommendations adaptive to the needs of each user.Using **Watsonx.ai**, prompt services 
 helps users to get answers to their specific  questions.
-3. ***Real Time Monitoring***: Harvest Hub offers an advanced system of monitoring the needs of each user. Based on accurate data, this system provides specific guidance, from when to eat to how to manage Freshness, we aim to  **Reduce global food insecurity** and maximize the productivity of each crop. 
+3. ***Real Time Monitoring***: Harvest Hub offers an advanced system of monitoring the needs of each user. Based on accurate data, this system provides specific guidance, from when to eat to how to manage Freshness, we aim to  **Reduce global food insecurity** and maximize the productivity of each crop.
+### In the future, we plan to...
+![Project development roadmap](https://github.com/swastikaggarwal/Harvest_Hub/assets/103200961/7781d15e-5f2d-4a69-93d7-ec9b320aa26b)
+
 ## Additional details
 ### How to run the project
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
