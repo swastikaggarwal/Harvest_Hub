@@ -83,6 +83,6 @@ helps users to get answers to their specific  questions.
 ## Team Details
 ### Author
 ![authors image](https://github.com/swastikaggarwal/Harvest_Hub/assets/103200961/6da81b2d-bcec-45dd-a023-86ed246fe80a)
-***Swastik Aggarwal** <br>
-**LinkedIn** : [swastik Aggarwal](https://www.linkedin.com/in/swastik-aggarwal-8686ba143/) 
+Swastik Aggarwal <br>
+**LinkedIn**: [swastik Aggarwal](https://www.linkedin.com/in/swastik-aggarwal-8686ba143/) 
   
