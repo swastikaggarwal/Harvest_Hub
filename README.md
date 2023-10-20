@@ -10,7 +10,6 @@
    * [Our idea](#our-idea)
 * [Technology implementation](#technology-implementation)
     * [IBM AI services used](#ibm-ai-services-used)
-    * [Other IBM technology used](#other-ibm-technology-used)
     * [Solution Architecture](#solution-architecture)
  * [Presentation materials](#presentation-materials)
     * [Solution demo video](#solution-demo-video)
