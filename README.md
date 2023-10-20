@@ -47,6 +47,7 @@ At Harvest Hub, our mission is to revolutionize sustainable living by providing 
 ### IBM AI services used
 1. [Watsonx.ai](https://www.ibm.com/products/watsonx-ai): WHERE AND HOW THIS IS USED IN OUR SOLUTION
 ### Live demo of Watsonx.ai
+![Live demo of Watsonx.ai GiF](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/5e3ad6fd-2a09-4640-9fe4-373671e086d3)
 
 
 ## Solution Architecture
