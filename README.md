@@ -17,7 +17,7 @@
  * [Additional details](#additional-details)
     * [How to run the project](#how-to-run-the-project)
  * [Team details](#team-details)
-    * [Author](#authors)
+    * [Author](#author)
 
 ## Project Summary 
 ### The Issue we are Hoping to Solve
@@ -82,7 +82,7 @@ helps users to get answers to their specific  questions.
   3) Run `npm start` to view the project in the browser
 ## Team Details
 ### Author
-![authors image](https://github.com/swastikaggarwal/Harvest_Hub/assets/103200961/6da81b2d-bcec-45dd-a023-86ed246fe80a)
+![authors image](https://github.com/swastikaggarwal/Harvest_Hub/assets/103200961/6da81b2d-bcec-45dd-a023-86ed246fe80a) <br>
 Swastik Aggarwal <br>
 **LinkedIn**: [swastik Aggarwal](https://www.linkedin.com/in/swastik-aggarwal-8686ba143/) 
   
