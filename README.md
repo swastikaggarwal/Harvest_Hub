@@ -47,7 +47,7 @@ At Harvest Hub, our mission is to revolutionize sustainable living by providing 
 ### IBM AI services used
 1. [Watsonx.ai](https://www.ibm.com/products/watsonx-ai): watsonx.ai, you can train, validate, tune, and deploy generative AI, foundation models, and machine 
    learning capabilities with ease and build AI applications in a fraction of the time with a fraction of the data.<br>
-### WHERE AND HOW THIS IS USED IN OUR SOLUTION**:
+### WHERE AND HOW THIS IS USED IN OUR SOLUTION:
    We have integrated Watsonx.ai into a recommendation system, by which  Users now can inquire about food recipes or 
    predict freshness levels for the next day based on room temperature conditions. This data-driven approach empowers users to determine the optimal time for 
   consumption or repurposing, whether for cooking or blending into a smoothie.
