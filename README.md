@@ -52,8 +52,8 @@ At Harvest Hub, our mission is to revolutionize sustainable living by providing 
    predict freshness levels for the next day based on room temperature conditions. This data-driven approach empowers users to determine the optimal time for 
   consumption or repurposing, whether for cooking or blending into a smoothie.
 ### Live demo of Watsonx.ai
-![Live demo of Watsonx.ai GiF](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/5e3ad6fd-2a09-4640-9fe4-373671e086d3)
-This is how it will going to look after integrating the code into our website.
+![Live demo of Watsonx.ai GiF](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/5e3ad6fd-2a09-4640-9fe4-373671e086d3) <br>
+ ### This is how it will look after integrating the code into our website.
 ![Harvest Hub webiste recommendation page ](https://github.com/swastikaggarwal/CharityPoints/assets/103200961/c91fa611-b3b5-4af2-9265-9eb08a56ed1b)
 
 
