@@ -67,6 +67,7 @@ At Harvest Hub, our mission is to revolutionize sustainable living by providing 
 4. Watsonx.ai recommend suggestion to the user according to the freshness level such as recipes, Day-to-day predictions of the freshness of foods, etc.
 ## Presentation materials
 ### Solution demo video
+![Solution demo video](https://github.com/swastikaggarwal/Harvest_Hub/assets/103200961/f6412a13-e720-48f0-8e93-5cb70ff05b8b)
 ### Project development roadmap
 The project currently does the following things.
 1. ***Real Time Statistics***: Harvest Hub offers updated real-time statistics based on accurate data collected from users of their Food,  enriching decision-making and improving cooking efficiency by providing a percentage of food freshness.
