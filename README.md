@@ -42,7 +42,9 @@ At Harvest Hub, our mission is to revolutionize sustainable living by providing 
   2. While blogs and vlogs merely provide information, Harvest Hub elevates your food management experience. With live tracking and predictive insights, it's your 
      go-to for understanding and utilizing food freshness. The added bonus? Customized recipe recommendations for every stage of your ingredients.
   3. Move over blogs and vlogs; enter Harvest Hub. Why settle for static information when you can have live tracking and future predictions for your food? It's not 
-     just about guessing freshness; it's about having a dynamic assistant that recommends recipes based on your unique ingredients.   
+     just about guessing freshness; it's about having a dynamic assistant that recommends recipes based on your unique ingredients.
+ ### Website Link 
+[Harvest Hub. com](https://cheery-dusk-0e56f4.netlify.app/)
 ## Technology implementation
 ### IBM AI services used
 1. [Watsonx.ai](https://www.ibm.com/products/watsonx-ai): watsonx.ai, you can train, validate, tune, and deploy generative AI, foundation models, and machine 
