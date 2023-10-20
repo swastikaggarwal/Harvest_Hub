@@ -80,4 +80,9 @@ helps users to get answers to their specific  questions.
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
   2) In the terminal, run `npm install`
   3) Run `npm start` to view the project in the browser
+## Team Details
+### Authors 
+![authors image](https://github.com/swastikaggarwal/Harvest_Hub/assets/103200961/6da81b2d-bcec-45dd-a023-86ed246fe80a)
+
+Swastik Aggarwal 
   
